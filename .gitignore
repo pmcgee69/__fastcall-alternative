@@ -1,0 +1,6 @@
+
+*.res
+*.json
+_astcache
+__history
+Win32
