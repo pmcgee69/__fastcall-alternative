@@ -9,10 +9,10 @@
 #pragma resource "*.fmx"
 TForm1 *Form1;
 
-#define 📬 __fastcall;
+#define ƒ __fastcall;
 
 //---------------------------------------------------------------------------
- 📬 TForm1::TForm1(TComponent* Owner)  : TForm(Owner)
+ ƒ TForm1::TForm1(TComponent* Owner)  : TForm(Owner)
 
 {     //  candidates:  🙂  _ƒ   ƒ   Ͱ   Ψ   Ϫ   Ϟ
 	  //
