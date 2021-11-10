@@ -9,8 +9,6 @@
 #pragma resource "*.fmx"
 TForm1 *Form1;
 
-#define ƒ __fastcall;
-
 //---------------------------------------------------------------------------
  ƒ TForm1::TForm1(TComponent* Owner)  : TForm(Owner)
 
